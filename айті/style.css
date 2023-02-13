@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    color: red;
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 50px 0px;
+}
+#main{
+    color: orange;
+}
+a{
+    color: red;
+}
+a:hover{
+    transition: .3s all;
+    color: white;
+}
